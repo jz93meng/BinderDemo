@@ -1,10 +1,4 @@
-/* -*- mode: C++; c-basic-offset: 4; indent-tabs-mode: nil -*-
-   vi:ai:tabstop=8:shiftwidth=4:softtabstop=4:expandtab
-*/
-
 /*
- * Author: Gabriel Burca <gburca dash binder at ebixio dot com>
- *
  * Sample code for using binders in Android from C++
  *
  * The Demo service provides 3 operations: push(), alert(), add(). See
