@@ -20,7 +20,7 @@
 /* For relevant code see:
     frameworks/native/{include,libs}/binder/{IInterface,Parcel}.{h,cpp}
     system/core/include/utils/{Errors,RefBase}.h
- */
+*/
 
 #include <stdlib.h>
 
